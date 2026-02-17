@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: chords4fun
+  docker:
+    compose:
+      enabled: true
+      file: compose.yaml
